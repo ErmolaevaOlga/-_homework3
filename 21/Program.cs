@@ -12,6 +12,6 @@ int Y2 = int.Parse(Console.ReadLine());
 Console.WriteLine($"Введите Z2:");
 int Z2 = int.Parse(Console.ReadLine());
 double r = Math.Sqrt(Math.Pow(X2-X1,2)+Math.Pow(Y2-Y1,2)+ Math.Pow(Z2-Z1,2) );
-Console.WriteLine(r);
+Console.WriteLine($"расстояние равно {r:f3}");
 
 
