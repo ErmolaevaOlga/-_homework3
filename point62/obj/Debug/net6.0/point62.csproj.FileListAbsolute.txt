@@ -1,0 +1,15 @@
+D:\Обучение Java\C#\seminar8\point62\bin\Debug\net6.0\point62.exe
+D:\Обучение Java\C#\seminar8\point62\bin\Debug\net6.0\point62.deps.json
+D:\Обучение Java\C#\seminar8\point62\bin\Debug\net6.0\point62.runtimeconfig.json
+D:\Обучение Java\C#\seminar8\point62\bin\Debug\net6.0\point62.dll
+D:\Обучение Java\C#\seminar8\point62\bin\Debug\net6.0\point62.pdb
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.csproj.AssemblyReference.cache
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.AssemblyInfoInputs.cache
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.AssemblyInfo.cs
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.csproj.CoreCompileInputs.cache
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.dll
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\refint\point62.dll
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.pdb
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\point62.genruntimeconfig.cache
+D:\Обучение Java\C#\seminar8\point62\obj\Debug\net6.0\ref\point62.dll
